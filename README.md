@@ -5,13 +5,10 @@ Yiqiao has been in the AI/ML space since 2015, leading all forms of AI-backed so
 
 Though he started in Finance, Yin's AI career started from academic environment. He was a PhD student in Statistics at Columbia University from September of 2020 to December of 2021 📈🎓. He earned a B.A. in Mathematics, and an M.S. in Finance from University of Rochester 💼📊. His research interests are wide-ranging in representation learning, including Feature Learning, Deep Learning, Computer Vision (CV), and Natural Language Processing (NLP) 🤖👀. Additionally, he has some prior research experience in Financial Economics and Asset Pricing 💹📉.
 
-Google scholar: [https://scholar.google.com/citations?hl=en&user=Ju6m_O4AAAAJ](https://scholar.google.com/citations?hl=en&user=Ju6m_O4AAAAJ)
-
-Personal site: [https://www.y-yin.io/](https://www.y-yin.io/)
-
-YouTube: [https://www.youtube.com/@YiqiaoYin](https://www.youtube.com/@YiqiaoYin)
-
-LinkedIn: [https://www.linkedin.com/in/yiqiaoyin](https://www.linkedin.com/in/yiqiaoyin)
+- Google scholar: [https://scholar.google.com/citations?hl=en&user=Ju6m_O4AAAAJ](https://scholar.google.com/citations?hl=en&user=Ju6m_O4AAAAJ)
+- Personal site: [https://www.y-yin.io/](https://www.y-yin.io/)
+- YouTube: [https://www.youtube.com/@YiqiaoYin](https://www.youtube.com/@YiqiaoYin)
+- LinkedIn: [https://www.linkedin.com/in/yiqiaoyin](https://www.linkedin.com/in/yiqiaoyin)
 
 When Yiqiao was in PhD program at Columbia University, he investigated heavily in a domain known as dimension reduction and he focused on developing tools for scientists to understand the important features that affect the prediction outcome. He has multiple papers published on the topic known as I-score or Influence Score (Influence Measure) that is a non-parametric dimension reduction technique on supervised learning. The work gave him the foundation of statistical machine learning and experience of conducting independent research.
 

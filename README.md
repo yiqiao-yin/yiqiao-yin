@@ -7,24 +7,20 @@ I have led applied AI/ML since 2015 (and data science since 2014), delivering pr
 
 Previously, I was Tech Lead at <a href="https://www.vertexinc.com/">Vertex Inc</a> (global tax technology), Senior ML Engineer at S&P 500 company <a href="https://www.labcorp.com/">LabCorp</a> (AI for drug diagnostics, drug development, and operations across life sciences 🧠🔬), enterprise Data Scientist at EURO STOXX 50 company <a href="https://www.bayer.com/en/agriculture">Bayer</a>, Quantitative Researcher (apprenticeship) at hedge fund <a href="https://www.aqr.com/">AQR</a>, and Equity Trader at <a href="https://t3trading.com/">T3 Trading</a> on Wall Street (briefly <a href="https://brokercheck.finra.org/individual/summary/6338834">Series 56</a> licensed by FINRA). 💼📈
 
-Beyond engineering, I <b>advise and consult</b> on enterprise AI strategy and delivery, teach and <b>mentor</b> as a Clinical Assistant Professor and independent mentor (with mentees earning peer-reviewed publications and international science-fair awards), and supervise a small <a href="https://yinscapital.com/letters/">algorithmic-trading fund</a> (since 2011) spanning equities, cryptocurrencies, and real estate. I also run a monetized <a href="https://youtube.com/YiqiaoYin/">YouTube channel</a> on applied AI and publish research in representation learning (feature learning, deep learning, CV, NLP) and empirical asset pricing. 🤖📉
+Beyond engineering, I <b>advise and consult</b> on enterprise AI strategy and delivery, teach and <b>mentor</b> as a Clinical Assistant Professor and independent mentor (with mentees earning peer-reviewed publications and international science-fair awards), and supervise a small AI fund (since 2011 now managing 7-figure AUM) spanning equities, cryptocurrencies, and real estate. I also run a monetized <a href="https://youtube.com/YiqiaoYin/">YouTube channel</a> on applied AI and publish research in representation learning (feature learning, deep learning, CV, NLP) and empirical asset pricing. 🤖📉
 
-<i>Academic foundation:</i> PhD student in Statistics at Columbia University (2020 to 2021), B.A. in Mathematics and M.S. in Finance from the University of Rochester. 🎓
+<i>Academic foundation:</i>MBA from University of [Chicago Booth School of Business](https://www.chicagobooth.edu/), PhD in Statistics at [Columbia University](https://www.columbia.edu/), B.A. in Mathematics and M.S. in Finance from the University of Rochester. 🎓
 
 <sub>More at [y-yin.io](https://www.y-yin.io/) · [GitHub](https://github.com/yiqiao-yin) · [LinkedIn](https://www.linkedin.com/in/yiqiaoyin) · [YouTube](https://www.youtube.com/@YiqiaoYin)</sub>
-
-Though he started in Finance, Yin's AI career started from academic environment. He was a PhD student in [Statistics at Columbia University](https://stat.columbia.edu/) from September of 2020 to December of 2021 📈🎓. He earned a B.A. in Mathematics, and an [M.S. in Finance](https://simon.rochester.edu/programs/full-time-ms-in-finance) from [University of Rochester](https://www.rochester.edu/) 💼📊. His research interests are wide-ranging in [representation learning](https://en.wikipedia.org/wiki/Feature_learning), including Feature Learning, [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning), [Computer Vision (CV)](https://en.wikipedia.org/wiki/Computer_vision), and [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) 🤖👀. Additionally, he has some prior research experience in [Financial Economics](https://en.wikipedia.org/wiki/Financial_economics) and [Asset Pricing](https://en.wikipedia.org/wiki/Asset_pricing) 💹📉.
 
 - Google scholar: [https://scholar.google.com/citations?hl=en&user=Ju6m_O4AAAAJ](https://scholar.google.com/citations?hl=en&user=Ju6m_O4AAAAJ)
 - Personal site: [https://www.y-yin.io/](https://www.y-yin.io/)
 - YouTube: [https://www.youtube.com/@YiqiaoYin](https://www.youtube.com/@YiqiaoYin)
 - LinkedIn: [https://www.linkedin.com/in/yiqiaoyin](https://www.linkedin.com/in/yiqiaoyin)
 
-When Yiqiao was in PhD program at Columbia University, he investigated heavily in a domain known as dimension reduction and he focused on developing tools for scientists to understand the important features that affect the prediction outcome. He has multiple papers published on the topic known as I-score or Influence Score (Influence Measure) that is a non-parametric dimension reduction technique on supervised learning. The work gave him the foundation of statistical machine learning and experience of conducting independent research.
-
 For more published work by Yiqiao, please check out the site [https://www.y-yin.io/](https://www.y-yin.io/) under 'Research'.
 
-## ## 🛠️ Build + Ship: Production AI Systems
+## 🛠️ Build + Ship: Production AI Systems
 
 Beyond research and modeling, I design, build, and deploy **full-stack, production-grade AI platforms** end to end: from the frontend, through inference, down to the cloud infrastructure underneath. Across several systems spanning regulated fintech and consumer AI, I have repeatedly taken agentic and LLM-powered products from architecture to live deployment at enterprise scale. 🚀
 
@@ -57,7 +53,6 @@ Yiqiao believed that stock market is mostly fairly efficient. Many research grou
 
 ### View about AI:
 Yiqiao has good faith in today's advancement of AI technology and is a big supporter of AI-backed technology to boost business operation and enhance corporate strategy. Many clients and companies Yiqiao worked with in the past led him to conclude that 'AI alone may falter and stray, but built around a corporate strategy, it paves the way.'
-
 
 ## Apps
 Yiqiao built a series of AI-backed apps:

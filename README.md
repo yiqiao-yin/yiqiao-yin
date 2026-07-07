@@ -1,7 +1,18 @@
 # Yin's Profile:
 
 ## Brief
-Yiqiao have been in the AI/ML space since 2015, leading all forms of AI-backed solutions including but not limited to Computer Vision, Natural Language Models (NLP), and most recently Large Language Models (LLMs) and Generative AI. He is currently a Principal AI Engineer at <a href="https://www.fico.com/">FICO</a>. Previously, he was a Tech Lead at <a href="https://www.vertexinc.com/">Vertex Inc</a>, a global leading provider of tax technologies 📊💻. He has also been a Senior ML Engineer at an <a href="https://en.wikipedia.org/wiki/S%26P_500">S&P 500</a> company, <a href="https://www.labcorp.com/">LabCorp</a>, developing AI-driven solutions 🧠💻 in drug diagnostics, drug development, operations management, and financial decisions for our global leaders in life sciences 🌍🔬 (see Labcorp SEC filings <a href="https://www.sec.gov/edgar/browse/?CIK=920148&owner=exclude">here</a>). He has also held positions such as enterprise-level Data Scientist at <a href="https://www.bayer.com/en/agriculture">Bayer</a> (a <a href="https://en.wikipedia.org/wiki/EURO_STOXX_50">EURO STOXX 50</a> company), Quantitative Researcher (apprenticeship) at <a href="https://www.aqr.com/">AQR</a> (a global hedge fund pioneering in alternative quantitative strategies to portfolio management and <a href="https://www.blackrock.com/us/individual/investment-ideas/what-is-factor-investing">factor-based trading</a>), and Equity Trader at <a href="https://t3trading.com/">T3 Trading</a> on Wall Street (where he was briefly licensed <a href="https://brokercheck.finra.org/individual/summary/6338834">Series 56</a> by <a href="https://www.finra.org/">FINRA</a>). He supervises a small fund specializing in algorithmic trading (since 2011, performance is <a href="https://yinscapital.com/letters/">here</a>) in equity market, cryptocurrencies, and real estate investment. He also runs his own monetized <a href="https://youtube.com/YiqiaoYin/">YouTube Channel</a>. Feel free to add me on <a href="https://www.linkedin.com/in/yiqiaoyin/">LinkedIn</a>. 🚀📈
+<b>Principal AI Engineer · I build, ship, and lead production AI/ML systems.</b> 🚀
+
+I have led applied AI/ML since 2015 (and data science since 2014), delivering production solutions across Computer Vision, NLP, and today's Large Language Models and Generative AI. My focus is end to end: I <b>architect, build, and ship full-stack, production-grade AI platforms</b>, from the frontend through inference down to the cloud infrastructure beneath. I am currently a Principal AI Engineer at <a href="https://www.fico.com/">FICO</a>, a global data analytics leader in credit scoring, where I <b>lead GenAI engineering</b> and ship customer-facing LLM copilots for enterprise and Tier-1 banking environments under strict compliance and data-residency constraints. 📊🔢
+
+Previously, I was Tech Lead at <a href="https://www.vertexinc.com/">Vertex Inc</a> (global tax technology), Senior ML Engineer at S&P 500 company <a href="https://www.labcorp.com/">LabCorp</a> (AI for drug diagnostics, drug development, and operations across life sciences 🧠🔬), enterprise Data Scientist at EURO STOXX 50 company <a href="https://www.bayer.com/en/agriculture">Bayer</a>, Quantitative Researcher (apprenticeship) at hedge fund <a href="https://www.aqr.com/">AQR</a>, and Equity Trader at <a href="https://t3trading.com/">T3 Trading</a> on Wall Street (briefly <a href="https://brokercheck.finra.org/individual/summary/6338834">Series 56</a> licensed by FINRA). 💼📈
+
+Beyond engineering, I <b>advise and consult</b> on enterprise AI strategy and delivery, teach and <b>mentor</b> as a Clinical Assistant Professor and independent mentor (with mentees earning peer-reviewed publications and international science-fair awards), and supervise a small <a href="https://yinscapital.com/letters/">algorithmic-trading fund</a> (since 2011) spanning equities, cryptocurrencies, and real estate. I also run a monetized <a href="https://youtube.com/YiqiaoYin/">YouTube channel</a> on applied AI and publish research in representation learning (feature learning, deep learning, CV, NLP) and empirical asset pricing. 🤖📉
+
+<i>Academic foundation:</i> PhD student in Statistics at Columbia University (2020 to 2021), B.A. in Mathematics and M.S. in Finance from the University of Rochester. 🎓
+
+<sub>More at <a href="https://www.y-yin.io/">y-yin.io</a> · <a href="https://github.com/yiqiao-yin">GitHub</a> · <a href="https://www.linkedin.com/in/yiqiaoyin">LinkedIn</a> · <a href="https://www.youtube.com/@YiqiaoYin">YouTube</a></sub>
+<sub>More at [y-yin.io](https://www.y-yin.io/) · [GitHub](https://github.com/yiqiao-yin) · [LinkedIn](https://www.linkedin.com/in/yiqiaoyin) · [YouTube](https://www.youtube.com/@YiqiaoYin)</sub>
 
 Though he started in Finance, Yin's AI career started from academic environment. He was a PhD student in [Statistics at Columbia University](https://stat.columbia.edu/) from September of 2020 to December of 2021 📈🎓. He earned a B.A. in Mathematics, and an [M.S. in Finance](https://simon.rochester.edu/programs/full-time-ms-in-finance) from [University of Rochester](https://www.rochester.edu/) 💼📊. His research interests are wide-ranging in [representation learning](https://en.wikipedia.org/wiki/Feature_learning), including Feature Learning, [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning), [Computer Vision (CV)](https://en.wikipedia.org/wiki/Computer_vision), and [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) 🤖👀. Additionally, he has some prior research experience in [Financial Economics](https://en.wikipedia.org/wiki/Financial_economics) and [Asset Pricing](https://en.wikipedia.org/wiki/Asset_pricing) 💹📉.
 
@@ -13,6 +24,34 @@ Though he started in Finance, Yin's AI career started from academic environment.
 When Yiqiao was in PhD program at Columbia University, he investigated heavily in a domain known as dimension reduction and he focused on developing tools for scientists to understand the important features that affect the prediction outcome. He has multiple papers published on the topic known as I-score or Influence Score (Influence Measure) that is a non-parametric dimension reduction technique on supervised learning. The work gave him the foundation of statistical machine learning and experience of conducting independent research.
 
 For more published work by Yiqiao, please check out the site [https://www.y-yin.io/](https://www.y-yin.io/) under 'Research'.
+
+## ## 🛠️ Build + Ship: Production AI Systems
+
+Beyond research and modeling, I design, build, and deploy **full-stack, production-grade AI platforms** end to end: from the frontend, through inference, down to the cloud infrastructure underneath. Across several systems spanning regulated fintech and consumer AI, I have repeatedly taken agentic and LLM-powered products from architecture to live deployment at enterprise scale. 🚀
+
+### Representative platforms
+
+- **[Clawdeck](https://clawdeck-app.com)** (agentic cloud-compute platform): gives an AI agent its own **isolated, disposable cloud desktop** with sandboxed code execution and on-demand GPU, where credentials are brokered *outside* the sandbox for a safe execution model. Built and operated solo.
+- **[Alpha Seentio](https://app-seentio.com)** (AI-native investment-research platform): pairs LLM reasoning with **two-way MCP tool-calling**, live brokerage integration, and strategy backtesting, exposing structured financial workflows to an agent. Built and operated solo.
+- **Enterprise banking copilot** (delivered into customer environments): a customer-facing LLM assistant deployed **multi-cloud and multi-tenant** into the clouds of **Tier-1 banks**, engineered to satisfy strict **banking compliance, data-residency, and tenant-isolation** requirements. Delivering AI into someone else's regulated cloud, not just my own.
+- **Internal AI productivity platform**: an **LLM / MCP gateway** and full-stack chat platform serving **700+ engineers and product managers** behind a zero-trust service mesh.
+
+### Architecture and infrastructure patterns
+
+Patterns I apply across these systems:
+
+- **Cloud-native on Kubernetes (EKS):** Helm-deployed services, autoscaling with **HPA + Karpenter**, stateless pods, and spot-node cost optimization.
+- **Async, event-driven backends:** `API → SQS → Worker → Redis` pipelines for long-running agentic jobs, with Redis pub/sub fan-out to WebSockets for live results, plus buffering, retries, and horizontal scale.
+- **Managed LLM access:** provider gateways (AWS **Bedrock**, Anthropic) with **IRSA**-scoped credentials, token metering, and per-user rate limiting.
+- **Zero-trust service networking:** **Istio** service mesh with **mTLS**, **JWT / Okta** auth, secrets isolation, and credential-brokering so execution environments never hold keys.
+- **Agent tooling and interop:** two-way **MCP** (server + client), FastMCP streamable-HTTP, and **OAuth 2.1 / JWT-scoped** tool access.
+- **Sandboxed and GPU compute:** ephemeral execution via **E2B / RunPod**, multi-GPU provisioning (RTX → A100 / H100), and full sandbox lifecycle management (boot, hydrate, drive, sync, reap).
+- **Data and storage:** **DynamoDB**, **S3**, and **Redis**, separating durable state from ephemeral real-time coordination.
+- **Full-stack delivery:** **SvelteKit / React** frontends through **FastAPI** services to the infrastructure above, architected, built, and operated solo or as lead.
+
+### Stack at a glance
+
+`Python` · `FastAPI` · `SvelteKit / React` · `AWS (EKS, Bedrock, SQS, DynamoDB, S3, IRSA)` · `Kubernetes` · `Helm` · `Istio` · `Redis` · `Karpenter` · `E2B / RunPod` · `MCP` · `OAuth 2.1` · `Okta` · `JFrog`
 
 ### View about stock market:
 Yiqiao believed that stock market is mostly fairly efficient. Many research groups and companies are doing great things out there with advanced tools. However, market does get "noisy" once in a while and that breeds opportunity. Yiqiao personally trades off a momentum strategy and he has his own market timing algorithm. This app [https://huggingface.co/spaces/eagle0504/technical-trader](https://huggingface.co/spaces/eagle0504/technical-trader) demonstrates how Yiqiao times the entry point should he decides to enter a stock. This app [https://huggingface.co/spaces/eagle0504/Momentum-Strategy-Screener](https://huggingface.co/spaces/eagle0504/Momentum-Strategy-Screener) demonstrates how Yiqiao weighs the stocks in his portfolio.
